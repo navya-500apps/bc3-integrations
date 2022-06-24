@@ -472,5 +472,11 @@
   website: "https://hourstack.com/integrations/basecamp"
   icon: "hourstack.png"
   category: 2
-
+-
+ name: "HipSocial"
+ description: "Convert social media user feedback and conversations into tasks with Basecamp integration."
+ website: "https://hipsocial.com/basecamp-integration"
+ icon: "hipsocial-logo.png"
+ category: 6
+-
 
